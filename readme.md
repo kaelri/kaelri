@@ -1,6 +1,6 @@
 ## Who
 
-Hello! I’m a writer and web developer in the Washington, D.C. area. **Kaelri** is my Internet pseudonym. [He/him](https://www.mypronouns.org/he-him).
+Hello! I’m a writer and web developer in Rochester, NY. **Kaelri** is my Internet pseudonym. [He/him](https://www.mypronouns.org/he-him).
 
 ## What
 
@@ -13,6 +13,8 @@ Hello! I’m a writer and web developer in the Washington, D.C. area. **Kaelri**
 - Rainmeter
 - Vue.js
 - WordPress
+- AWS Lambda
+- Obsidian
 
 ## Where
 
@@ -20,4 +22,5 @@ Hello! I’m a writer and web developer in the Washington, D.C. area. **Kaelri**
 - [Email](mailto:kaelri@gmail.com)
 - [Twitter](https://www.twitter.com/kaelri)
 - [Instagram](https://www.instagram.com/kaelri/)
+- [Buy Me a Coffee](https://www.buymeacoffee.com/kaelri)
 - [RSS](https://www.kaelri.com/feed)
