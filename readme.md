@@ -22,6 +22,6 @@ Hello! I’m a writer and web developer in Rochester, NY. **Kaelri** is my Inter
 - [Email](mailto:kaelri@gmail.com)
 - [Twitter](https://www.twitter.com/kaelri)
 - [Instagram](https://www.instagram.com/kaelri/)
-- <a href="https://mastodon.social/@kaelri" rel="me">Mastodon</a>
+- [Mastodon](https://mastodon.social/@kaelri)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/kaelri)
 - [RSS](https://www.kaelri.com/feed)
