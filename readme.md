@@ -18,10 +18,10 @@ Hello! I’m a writer and web developer in Rochester, NY. **Kaelri** is my Inter
 
 ## Where
 
-- [Web](https://www.kaelri.com/)
-- [Email](mailto:kaelri@gmail.com)
+- [Web](https://www.engard.me/)
+- [Email](mailto:michael@engard.me)
 - [Twitter](https://www.twitter.com/kaelri)
 - [Instagram](https://www.instagram.com/kaelri/)
 - [Mastodon](https://mastodon.social/@kaelri)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/kaelri)
-- [RSS](https://www.kaelri.com/feed)
+- [RSS](https://www.engard.me/feed)
