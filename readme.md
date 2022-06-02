@@ -28,7 +28,7 @@ Hello! I’m a writer and web developer in Rochester, NY. **Kaelri** is my Inter
 
 ## Uses
 
-- [macOS](https://www.apple.com/macos/)
+- [MacBook Pro](https://www.apple.com/macbook-pro/)
 - [VS Code](https://code.visualstudio.com/)
 - [WorkFlowy](https://workflowy.com/)
 - [GitKraken](https://www.gitkraken.com/)
@@ -36,3 +36,5 @@ Hello! I’m a writer and web developer in Rochester, NY. **Kaelri** is my Inter
 - [Obsidian](https://obsidian.md/)
 - [DreamHost](https://www.dreamhost.com/)
 - [Feedly](https://feedly.com/)
+- [Fisher Space Pen](https://www.spacepen.com/)
+- [Word. Notebooks](https://www.wordnotebooks.com/)
