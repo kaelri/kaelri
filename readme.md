@@ -5,16 +5,16 @@ Hello! I’m a writer and web developer in Rochester, NY. **Kaelri** is my Inter
 ## What
 
 - Apache
+- AWS Lambda
 - CSS
 - HTML
 - JavaScript
 - MySQL/MariaDB
+- Obsidian
 - PHP
 - Rainmeter
 - Vue.js
 - WordPress
-- AWS Lambda
-- Obsidian
 
 ## Where
 
@@ -25,3 +25,14 @@ Hello! I’m a writer and web developer in Rochester, NY. **Kaelri** is my Inter
 - [Mastodon](https://mastodon.social/@kaelri)
 - [Buy Me a Coffee](https://www.buymeacoffee.com/kaelri)
 - [RSS](https://www.engard.me/feed)
+
+## Uses
+
+- [macOS](https://www.apple.com/macos/)
+- [VS Code](https://code.visualstudio.com/)
+- [WorkFlowy](https://workflowy.com/)
+- [GitKraken](https://www.gitkraken.com/)
+- [WordPress](https://wordpress.org/)
+- [Obsidian](https://obsidian.md/)
+- [DreamHost](https://www.dreamhost.com/)
+- [Feedly](https://feedly.com/)
