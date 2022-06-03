@@ -34,6 +34,8 @@ Hello! I’m a writer and web developer in Rochester, NY. **Kaelri** is my Inter
 - [GitKraken](https://www.gitkraken.com/)
 - [WordPress](https://wordpress.org/)
 - [Obsidian](https://obsidian.md/)
+- [1Password](https://1password.com/)
+- [Raycast](https://www.raycast.com/)
 - [DreamHost](https://www.dreamhost.com/)
 - [Feedly](https://feedly.com/)
 - [Fisher Space Pen](https://www.spacepen.com/)
