@@ -26,7 +26,7 @@ Hello! I’m a writer and web developer in Rochester, NY. **Kaelri** is my Inter
 - [Buy Me a Coffee](https://www.buymeacoffee.com/kaelri)
 - [RSS](https://www.engard.me/feed)
 
-## Uses
+## How
 
 - [MacBook Pro](https://www.apple.com/macbook-pro/)
 - [VS Code](https://code.visualstudio.com/)
